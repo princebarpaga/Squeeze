@@ -1,1 +1,2 @@
-# McHacks 201 - Squeeze: A News Aggregator and Summarizer
+#Squeeze: A News Aggregator and Summarizer
+Created for McHacks 2018
